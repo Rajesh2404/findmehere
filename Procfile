@@ -1,0 +1,1 @@
+web gunicorn selfstore.wsgi --log-file -
